@@ -7,3 +7,7 @@
 [[Icra_06a_TakipTalebininKesinlesmesi.pdf|Takibin Kesinleşmesi]]
 
 [[Public/Subjects/İtirazın İptali Davası\|İtirazın İptali Davası]]
+
+İstihkak
+
+[[Public/Subjects/Kiralanan Taşınmazların Tahliyesi\|Kiralanan Taşınmazların Tahliyesi]]
