@@ -46,7 +46,7 @@
     - Dava nispi harca tabidir (HarçK 28.I.a)
     - HarçK 29: İlamsız takiplerde binde 5 peşin harç alınır. İtirazın iptali davası açılması halinde iade ya da mahkeme harcına mahsup edilir.
 - Borçlu, itiraz sebepleri ile bağlı değil.
-- Ancak Bir HGK’da alacaklının sadece takipte gösterdiği delil ve belgelerle bağlı olduğuna karar verilmiştir. Bkz [HGK_2021_377](https://www.notion.so/HGK_2021_377-8f3235f1871b462ea131a078cae437d9?pvs=21)
+- Ancak Bir HGK’da alacaklının sadece takipte gösterdiği delil ve belgelerle bağlı olduğuna karar verilmiştir. Bkz [[Public/Files/HGK_2021_377\|HGK_2021_377]])
 - Mahkeme, İİK 68-68/b’de gösterilen delillerle bağlı değil.
 
 # Mahkemenin Kararı ve Sonuçları
